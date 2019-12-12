@@ -31,4 +31,8 @@ public class C implements I {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public Object pp() {
+        return this;
+    }
 }

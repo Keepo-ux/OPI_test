@@ -23,4 +23,8 @@ public class E {
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
     }
+
+    public Object rr() {
+        return null;
+    }
 }
