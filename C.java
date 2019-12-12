@@ -43,4 +43,8 @@ public class C implements I {
     public byte oo() {
         return 1;
     }
+
+    public void aa() {
+        return;
+    }
 }
