@@ -39,4 +39,8 @@ public class C implements I {
     public double ad() {
         return 12.12;
     }
+
+    public byte oo() {
+        return 1;
+    }
 }

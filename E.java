@@ -31,4 +31,8 @@ public class E {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
